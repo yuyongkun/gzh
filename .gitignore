@@ -1,0 +1,16 @@
+node_modules
+.DS_Store
+design
+*.log
+packages/test
+dist
+temp
+build/node_modules
+.vuerc
+.version
+.vscode
+public/upload
+public/video
+public/ueditor
+*.mp4
+
